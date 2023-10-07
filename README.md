@@ -1,6 +1,6 @@
 # Movioconic React Native Demo App
 ## Demo App
-![iOS Demo animation](https://demopig.s3.amazonaws.com/Movioconic_Demo.gif)
+![Movioconic_Demo](https://github.com/jonstep/Movioconic/assets/2640/0ce22155-bf93-4600-9b40-f614db7a5224)
 
 [Demo Video](https://demopig.s3.amazonaws.com/Movioconic_Demo.mov)
 
