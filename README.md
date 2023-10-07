@@ -1,8 +1,15 @@
 # Movioconic React Native Demo App
 ## Demo App
-[Android Demonstration APK](https://demopig.s3.amazonaws.com/movioconic-app-release.apk)
+![iOS Demo animation](https://demopig.s3.amazonaws.com/Movioconic_Demo.gif)
 
-## Setup
+[Demo Video](https://demopig.s3.amazonaws.com/Movioconic_Demo.mov)
+
+[iOS Testflight Build](https://testflight.apple.com/join/vyyQTr9s)
+
+[Android APK Build](https://demopig.s3.amazonaws.com/movioconic-app-release.apk)
+
+## Setup & Installation
+
 #### Android Studio
 
 * Download and install [Android Studio](https://developer.android.com/studio/) if required. Make sure Android SDK, Android SDK Platform and Android Virtual Device are all selected during the installation
@@ -50,7 +57,7 @@ gem install bundler
 gem install cocoapods
 ```
 
-#### Running the project
+## Running the project
 
 1. Check out the code and navigate to project root.
 
