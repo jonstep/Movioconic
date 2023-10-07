@@ -1,4 +1,6 @@
 # Movioconic React Native Demo App
+## Demo App
+[Android Demonstration APK](https://github.com/jonstep/ideas-board-mobile/raw/master/demo/Ideas.apk)
 
 ## Setup
 #### Android Studio
