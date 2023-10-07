@@ -32,7 +32,7 @@ function App() {
         style={{flex: 1}}>
         <SafeAreaView style={styles.screenContainer}>
           <View style={styles.screenHeader}>
-            <Text style={styles.screenHeaderText}>Movionic</Text>
+            <Text style={styles.screenHeaderText}>Movioconic</Text>
           </View>
           <QuoteList />
           <AddQuote />
