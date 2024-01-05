@@ -2,8 +2,6 @@
 ## Demo App
 ![Movioconic_Demo](https://github.com/jonstep/Movioconic/assets/2640/0ce22155-bf93-4600-9b40-f614db7a5224)
 
-[iOS Testflight Build](https://testflight.apple.com/join/vyyQTr9s)
-
 [Android APK Build](https://demopig.s3.amazonaws.com/movioconic-app-release.apk)
 
 ## Setup & Installation
